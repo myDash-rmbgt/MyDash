@@ -27,14 +27,14 @@
 <h3>Architektur der Webanwendung</h3>
 </li>
 </ol>
-<h3>&nbsp;</h3>
+<h3>&nbsp;<img src="https://www.bilder-upload.eu/upload/123c5b-1583229549.png" alt="" width="1397" height="682" /></h3>
 <ol start="3">
 <li>
 <h3>Entity Relationship Diagramm der Datenbank</h3>
 </li>
 </ol>
 <p>Im Gegensatz zu Webseiten, wie der offiziellen Schulhomepage, die gro&szlig;enteils statische Elemente beinhaltet, werden bei dieser Webanwendung viele Inhalte dynamisch erzeugt, da sich diese bei jedem Benutzer unterscheiden. Wie schon skizziert, bildet hierf&uuml;r eine Datenbank die Grundlage.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<img src="https://www.bilder-upload.eu/upload/01799c-1583229578.png" alt="" width="1119" height="769" /></p>
 <ol start="4">
 <li>
 <h3>Funktionsumfang</h3>
