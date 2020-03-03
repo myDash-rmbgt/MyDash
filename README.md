@@ -1,9 +1,11 @@
-<p>&nbsp;P R O J E K T D O K U M E N T A T I O N</p>
-<p>im Unterrichtsfach angewandte Wirtschaftsinformatik</p>
-<p>&nbsp;<br /> <strong>Entwicklung einer Webanwendung zur Fehlstundenverwaltung in der gymnasialen Oberstufe</strong></p>
+<h3 style="text-align: center;">&nbsp;P R O J E K T D O K U M E N T A T I O N</h3>
+<h3 style="text-align: center;">im Unterrichtsfach angewandte Wirtschaftsinformatik</h3>
+<h2 style="text-align: center;">&nbsp;<br /> <strong>Entwicklung einer Webanwendung zur Fehlstundenverwaltung in der gymnasialen Oberstufe</strong></h2>
 <p>&nbsp;</p>
 <ol>
-<li>Einf&uuml;hrung und Zielsetzung</li>
+<li>
+<h3>Einf&uuml;hrung und Zielsetzung</h3>
+</li>
 </ol>
 <p>Gegenstand des Projektes ist, das heute im Wirtschaftsgymnasium eingesetzte analoge System zur Verwaltung und Dokumentation von Fehlstunden und Krankmeldungen, durch eine digitale Webanwendung zu ersetzen, die eine Kommunikation zwischen Sch&uuml;lern sowie Klassen- und Kurslehrern erm&ouml;glicht.</p>
 <p>Das derzeitige System, das prim&auml;r auf Entschuldigungskarten, die durch die Sch&uuml;ler gef&uuml;hrt werden, basiert, wird von beiden Seiten als sehr umst&auml;ndlich bewertet:</p>
@@ -21,16 +23,22 @@
 <p>Jeder Benutzer hat ein eigenes Profil, auf das er mittels seiner Emailadresse und einem Passwort zugreifen kann.</p>
 <p>&nbsp;</p>
 <ol start="2">
-<li>Architektur der Webanwendung</li>
+<li>
+<h3>Architektur der Webanwendung</h3>
+</li>
 </ol>
-<p>&nbsp;</p>
+<h3>&nbsp;</h3>
 <ol start="3">
-<li>Entity Relationship Diagramm der Datenbank</li>
+<li>
+<h3>Entity Relationship Diagramm der Datenbank</h3>
+</li>
 </ol>
 <p>Im Gegensatz zu Webseiten, wie der offiziellen Schulhomepage, die gro&szlig;enteils statische Elemente beinhaltet, werden bei dieser Webanwendung viele Inhalte dynamisch erzeugt, da sich diese bei jedem Benutzer unterscheiden. Wie schon skizziert, bildet hierf&uuml;r eine Datenbank die Grundlage.</p>
 <p>&nbsp;</p>
 <ol start="4">
-<li>Funktionsumfang</li>
+<li>
+<h3>Funktionsumfang</h3>
+</li>
 </ol>
 <p>Generell ist zwischen zwei Anwenderprofilen zu differenzieren &ndash; Sch&uuml;ler und Lehrer &ndash; die jeweils die Berechtigung haben, auf unterschiedliche Unterseiten und Funktionen zuzugreifen. Seiten, die das Login betreffen, sind jeweils identisch und leiten zum entsprechenden Profil weiter.</p>
 <table width="605">
@@ -401,10 +409,11 @@
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>* Blau unterlegte Seiten sind nicht sichtbar, sondern f&uuml;hren Aktionen im Hintergrund aus, nachdem diese aufgerufen werden.</p>
 <p>&nbsp;</p>
 <ol start="5">
-<li>Bausteine der Webanwendung</li>
+<li>
+<h3>Bausteine der Webanwendung</h3>
+</li>
 </ol>
 <p>&nbsp;</p>
 <ul>
@@ -415,7 +424,9 @@
 </ul>
 <p>&nbsp;</p>
 <ol start="6">
-<li>Codebeispiel</li>
+<li>
+<h3>Codebeispiel</h3>
+</li>
 </ol>
 <p>Jedes einzelne Programmscript genau zu erkl&auml;ren, w&uuml;rde an dieser Stelle den Rahmen sprengen, daher ist auf github.com stellvertretend eine kommentierte Dokumentation von submit.php, dem Programmteil, mittels dessen sich Sch&uuml;ler krankmelden k&ouml;nnen, zu finden.</p>
 <p>&nbsp;</p>
