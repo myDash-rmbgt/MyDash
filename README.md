@@ -1,24 +1,6 @@
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>P R O J E K T D O K U M E N T A T I O N</p>
+<p>&nbsp;P R O J E K T D O K U M E N T A T I O N</p>
 <p>im Unterrichtsfach angewandte Wirtschaftsinformatik</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><br /> <strong>Entwicklung einer Webanwendung zur Fehlstundenverwaltung in der gymnasialen Oberstufe</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Pascal von Berg</p>
-<p>Dustin Westerbarkei</p>
-<p>Lukas Jacke</p>
-<p><strong>&nbsp;</strong></p>
-<p><strong>WG13B</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Betreuungslehrer: Herr Portmann</p>
-<p>Abgabetermin: 01.04.2020</p>
+<p>&nbsp;<br /> <strong>Entwicklung einer Webanwendung zur Fehlstundenverwaltung in der gymnasialen Oberstufe</strong></p>
 <p>&nbsp;</p>
 <ol>
 <li>Einf&uuml;hrung und Zielsetzung</li>
@@ -41,27 +23,6 @@
 <ol start="2">
 <li>Architektur der Webanwendung</li>
 </ol>
-<table>
-<tbody>
-<tr>
-<td width="0">&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <ol start="3">
 <li>Entity Relationship Diagramm der Datenbank</li>
@@ -456,23 +417,7 @@
 <ol start="6">
 <li>Codebeispiel</li>
 </ol>
-<p>&nbsp;</p>
-<table width="706">
-<tbody>
-<tr>
-<td width="235">
-<p>&nbsp;</p>
-</td>
-<td width="355">
 <p>Jedes einzelne Programmscript genau zu erkl&auml;ren, w&uuml;rde an dieser Stelle den Rahmen sprengen, daher ist auf github.com stellvertretend eine kommentierte Dokumentation von submit.php, dem Programmteil, mittels dessen sich Sch&uuml;ler krankmelden k&ouml;nnen, zu finden.</p>
-<p>&nbsp;</p>
-</td>
-<td width="115">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><a href="#_ftnref1" name="_ftn1">[1]</a> <a href="https://www.creative-tim.com/product/now-ui-dashboard">https://www.creative-tim.com/product/now-ui-dashboard</a></p>
